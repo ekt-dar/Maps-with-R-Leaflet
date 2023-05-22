@@ -11,7 +11,7 @@ library(shinydashboard)
 library(rgdal)
 library(leaflet)
 library(dplyr)
-library(DT)
+library(DT) 
 #load data
 crime_data <- readRDS("../data/database.rds")
 
