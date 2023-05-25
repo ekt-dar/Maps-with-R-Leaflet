@@ -102,7 +102,7 @@ server <- function(input, output) {
                   fillOpacity = 0.8,
                   highlight = highlightOptions(
                     weight = 5,
-                    color = "#666",
+                    color = "#666", 
                     dashArray = "",
                     fillOpacity = 0.7,
                     bringToFront = TRUE),
